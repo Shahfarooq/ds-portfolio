@@ -12,5 +12,9 @@
 
 ## Exploratory Data Analysis and Visualization
 
+## Maching Learning using Python
+* Feature Engineering
+* ML from Scratch and sklearn
+* ML Utilities
 
 
