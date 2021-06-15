@@ -15,6 +15,6 @@
 ## Machine Learning using Python
 * Feature Engineering
 * ML from Scratch and sklearn
-* ML Utilities
+* ML Utilities - Bias Removal with Declustering, Classification Models, Precision Recall Tradeoff, Holdout Grid
 
 
