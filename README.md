@@ -10,6 +10,7 @@
 * capstone geoSpatial and PageRank
 * sqlite from json, txt and xml
 
+## Exploratory Data Analysis and Visualization
 
 
 
