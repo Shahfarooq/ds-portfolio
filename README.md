@@ -19,3 +19,11 @@
 
 
 ## Open CV (Computer Vision)
+
+## Deep Learning using TensorFlow (keras)
+* CNN, GAN
+* Advanced Computer Vision - Image Augmentation, X-Ray classification
+* AutoEncoding - PCA, Convolutional, Sparse
+* Natural Language Processing (NLP) with word embeddings and Generation LTSM
+* Time Series prediction - sequence processing
+
